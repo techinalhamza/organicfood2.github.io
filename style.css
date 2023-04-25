@@ -27,7 +27,7 @@
      font-size: 62.5%;
      overflow: hidden;
      scroll-behavior: smooth;
-     scroll-padding-top: 7rem;
+     /*scroll-padding-top: 7rem;*/
  }
 
  body {
